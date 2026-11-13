@@ -61,3 +61,6 @@ Run the command from this project's root directory. Check the connection with `c
 - **Server does not appear:** Confirm `dist/index.js` exists, the config points to its absolute path, and the JSON is valid; then restart Claude.
 - **Node cannot be found:** Make sure Node.js is installed and `node` is available on the PATH used to launch Claude.
 - **Changes are missing:** Run `npx tsc` again to rebuild, then restart Claude.
+
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/drokade981-dev-mcp-server-local-pcexbr?v=c7635d4ea239d323b0ceb06abf352cd5)](https://m8ven.ai/mcp/drokade981-dev-mcp-server-local-pcexbr?s=readme)
